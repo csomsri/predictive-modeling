@@ -3,4 +3,5 @@
 -
 -
 -
-#
+# Technologies used
+- Python, Matplotlib, Pandas, Numpy, sklearn
